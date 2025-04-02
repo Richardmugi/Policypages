@@ -33,7 +33,7 @@ We do not sell or share personal data with third parties, except:
 # 5. Data Retention
 •	We retain check-in data as required by the employer’s policies.
 •	If an employee leaves the company, data retention follows company policies or is deleted upon request.
-•	Employees cannot delete their accounts themselves because the system is managed by HR. If you need your account removed, you must contact your HR department.
+•	Employees cannot delete their accounts themselves because the system is managed by the Human Resource Manager(HR). If you need your account removed, you must contact your HR department.
 
 # How to Request Account Deletion
 If you no longer need access to your account, please follow these steps:
